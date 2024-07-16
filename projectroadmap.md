@@ -1,5 +1,5 @@
 # SPRINT 1
-- [x] Have an pproved project topic
+- [x] Have an approved project topic
 - [x] Establish a Github account and join the class organization
 - [x] Associate ownership of a code repository in our Github organization
 - [x] Make edits and committed changes in a README.md file
