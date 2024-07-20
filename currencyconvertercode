@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'YOUR KEY HERE'
+API_KEY = 'ecad770deb5e20e6f44f00dc'
 
 BASE_URL = 'https://v6.exchangerate-api.com/v6'
 
