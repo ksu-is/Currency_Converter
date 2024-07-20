@@ -1,4 +1,5 @@
 #When the code is ran in Visual Studio Code the output is as follows:
+Hello User!, Your Currency Conversion is: 
 100 USD = 100.00 USD
 100 USD = 91.90 EUR
 100 USD = 15745.71 JPY
