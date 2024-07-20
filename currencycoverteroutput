@@ -1,0 +1,11 @@
+#When the code is ran in Visual Studio Code the output is as follows:
+100 USD = 100.00 USD
+100 USD = 91.90 EUR
+100 USD = 15745.71 JPY
+100 USD = 77.43 GBP
+100 USD = 149.47 AUD
+100 USD = 137.19 CAD
+100 USD = 88.89 CHF
+100 USD = 727.71 CNY
+100 USD = 780.98 HKD
+100 USD = 166.31 NZD
