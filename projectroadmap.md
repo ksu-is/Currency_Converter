@@ -6,10 +6,10 @@
 - [x] Explore atleast one existing Python code related to the project, run it, and evaluate
 - [x] Submit updates to the projectroadmap.md file
 # SPRINT 2
-- [ ] Start building the code
-- [ ] Add comments and detail to the code
-- [ ] Each person should make atleast 6 code changes adding commit messages to explain changes
-- [ ] Track progress in projectroadmap.md
+- [x] Start building the code
+- [x] Add comments and detail to the code
+- [x] Make atleast 6 code changes adding commit messages to explain changes
+- [X] Track progress in projectroadmap.md
 # SPRINT 3
 - [ ] Continue coding, refining, and testing the code
 - [ ] Create a PowerPoint slide introduing the Currency_Converter
