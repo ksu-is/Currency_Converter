@@ -12,5 +12,5 @@
 - [X] Track progress in projectroadmap.md
 # SPRINT 3
 - [ ] Continue coding, refining, and testing the code
-- [ ] Create a PowerPoint slide introduing the Currency_Converter
-- [ ] In the slide list team members, the title of the project, a tag line for the main concept, and 1-2 sccreenshots/pictures demonstrating the idea or parts
+- [X] Create a PowerPoint slide introduing the Currency_Converter
+- [X] In the slide list team members, the title of the project, a tag line for the main concept, and 1-2 sccreenshots/pictures demonstrating the idea or parts
