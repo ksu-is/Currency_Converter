@@ -5,6 +5,8 @@ This is a necessary tool for many people for international commerce and finance 
 
 
 # Important
+This code was created with the use of AI
+
 This Code was run using Visual Studio Code & Python (3.11.7)
 
 The Code will require the user to replace the API_KEY with their own key using the website as follows: 'https://www.exchangerate-api.com/'
